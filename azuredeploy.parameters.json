@@ -12,7 +12,7 @@
             "value": "PYTHON|3.8"
         },
         "repoUrl": {
-            "value": "https://github.com/marchingbug/streamlit-azure-app-services.git"
+            "value": "https://github.com/MarchingBug/streamlit-azure-app-services.git"
         },
         "repoBranch": {
             "value": "main"
